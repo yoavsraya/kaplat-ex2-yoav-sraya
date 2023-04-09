@@ -1,1 +1,2 @@
-console.log("hello!);
+console.log("hello!");
+const yoav = 1;
